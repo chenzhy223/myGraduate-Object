@@ -23,3 +23,8 @@
 ## 2022-05-14
 
 把FCSCF简单应用在狂野飙车8中的游戏中跟踪目标，效果可在B站观看：https://www.bilibili.com/video/BV1S3411A75B/
+
+
+## 运行
+
+修改对应的文件路径，然后运行run_tracker.m文件即可
